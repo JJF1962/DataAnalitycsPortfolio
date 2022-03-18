@@ -4,9 +4,9 @@
 The Analysis was based in the request of company named PlanMyTrip, the mentioned company is in the technology market offering Hotel solutions, the company requested assistance collecting the data to help them to support their global customers. The objective of this module, was to continue using Jupyter Notebook, Python, but additionally we leraned API (Weather Map and Goggle), and parse data in Jason format.
 
 ### Results
-the first deliverable requested to create a data base based in 2000 (ramdon) longitude and latitude values as shown in figure below.
+the first deliverable requested to create a data base based in 2000 (ramdon) longitude and latitude values as you can see in the WeatherPy_vacation. csv file and as shown in the figure below.
 
-![This is an image](
+![This is an image](https://github.com/JJF1962/DataAnalyticsPortfolio/blob/main/06_WeatherPy/Resources/Capture.%20random%202000%20cities.PNG)
 
 The second deliverable consist in to identify convenient travel destinations and nearby hotels as shown in figure below. 
 

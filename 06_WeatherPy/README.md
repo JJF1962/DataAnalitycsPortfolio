@@ -10,7 +10,7 @@ the first deliverable requested to create a data base based in 2000 (ramdon) lon
 
 The second deliverable consist in to identify convenient travel destinations and nearby hotels as shown in figure below. 
 
-![This is an image](
+![This is an image](https://github.com/JJF1962/DataAnalyticsPortfolio/blob/main/06_WeatherPy/Vacation_Search/WeatherPy_Vacation_map.PNG)
 
 Finally, the third delivery allow to narorw four cities globally, generating self explanatory charts and maps added to this repository.
 

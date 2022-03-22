@@ -6,6 +6,7 @@ The Analysis was based in the request of company named PlanMyTrip, the mentioned
 * Data Source: 2000 ramdomly selected latitudes and longitudes.
 * Languge: Phyton 
 * Development tools: Jupyter Notebook 
+* Libraries: Pandas, Matpoliib and numpy
 ### Results
 the first deliverable requested to create a data base based in 2000 (ramdon) longitude and latitude values as you can see in the WeatherPy_vacation. csv file and as shown in the figure below.
 
@@ -21,4 +22,5 @@ Finally, the third delivery allow to narorw four cities globally, generating sel
 
 ### Summary and conclusion
 This Challenge number 6, was more complicated and I felt that I'm understanding more the Data Analysis process, is much more to learn, but I'm in the right way to support in the real world companies such as PlanMyTrip.
-The process involved to retrieve weather data, create a customer travel destination map and a travel itinerary map.
+We learned to issue an API call with the OpenWeatherMap and Google Directions, use the config.py file.
+The process involved to retrieve weather data, create a customer travel destination map and a travel itinerary map in three deliverable points.
